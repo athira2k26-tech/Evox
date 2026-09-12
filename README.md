@@ -102,24 +102,20 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-<img width="1896" height="1035" alt="Screenshot 2026-09-12 032540" src="https://github.com/user-attachments/assets/f874db78-e2d0-463b-9e3a-ce5632638310" />
+https://drive.google.com/file/d/1eo7_oIWDrukVWmSJysrs7jkN3HlZ9i8T/view?usp=sharing
 
+https://drive.google.com/file/d/1X_Drodab6cF8SJG_8ccDkd7rlhA0Q6rE/view?usp=sharing
 
-<img width="1901" height="1036" alt="Screenshot 2026-09-12 032604" src="https://github.com/user-attachments/assets/62143eaa-0d00-4164-84b3-d0dea2190700" />
-
-
-<img width="1902" height="937" alt="image" src="https://github.com/user-attachments/assets/372f3c22-bf6c-4beb-99d2-1460e5d6dfec" />
-
+https://drive.google.com/file/d/1_EbtV7fXnhPRxP13DHlqov0B7R2uaUTo/view?usp=sharing
 
 # Diagrams
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/123b7439-93a3-4b69-b3f5-b68d09118b32" />
-
+https://drive.google.com/file/d/12EaUZjYqgdCQmDvo74mtMf_ebNyEO0yG/view?usp=sharing
 
 ### Project Demo
 
 # Video
 
-
+https://drive.google.com/file/d/1eo7_oIWDrukVWmSJysrs7jkN3HlZ9i8T/view?usp=sharing
 
 
 # Additional Demos
